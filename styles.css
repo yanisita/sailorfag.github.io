@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title-container {
+    border-radius: 3%;
+    margin: 0 auto;
+    background-color: palevioletred;
+    width: 25rem;
+    height: 2.5rem;
+    position: relative;
+    margin-bottom: -2%;
+    
+
+}
+.title-container h1 {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+.main-container { 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 1%;
+    background-color: pink;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0.5rem;
+    
+    
+}
+figure {
+    padding: 2rem;
+    
+}
